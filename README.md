@@ -1,2 +1,3 @@
 # Inventory_Management_System
-Used Technologies : JAVA Swing, JDBC,MYSQL. IDE: NetBeans.
+<b>Used Technologies :</b> JAVA Swing, JDBC,MYSQL</br> 
+<b>IDE:</b> NetBeans.
